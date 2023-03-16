@@ -10,6 +10,7 @@ body{
     font-size: 10px;
     font-family: 'Outfit', sans-serif;
     padding: 0;
+    display: flex;
 }
 
 #caixa{

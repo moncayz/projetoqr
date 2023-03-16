@@ -20,6 +20,7 @@ body{
     padding: 10px;
     box-shadow: 5px 5px 5px var(--tertiary-color);
     background-color: var(--primary-color);
+    padding-bottom: 30px;
 }
 
 #image{
@@ -35,4 +36,5 @@ body{
     font-size: 13px;
     text-align: center;
     padding: 0px 10px 20px 10px;
+    
 }
